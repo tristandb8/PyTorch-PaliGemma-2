@@ -17,7 +17,7 @@
    ```
 
 3. Download the model weights:
-   Weights can be found at [Link Text](https://huggingface.co/collections/google/paligemma-2-release-67500e1e1dbfdd4dee27ba48)
+   Weights can be found at [HuggingFace](https://huggingface.co/collections/google/paligemma-2-release-67500e1e1dbfdd4dee27ba48)
 
    For pretrained only model (made for further finetuning)
    ```bash
